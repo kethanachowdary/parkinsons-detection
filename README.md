@@ -67,3 +67,4 @@ cd parkinsons-detection
 
 
 A simple web application was developed to make the model accessible for real-time predictions.
+https://parkinsons-detection-system.vercel.app
